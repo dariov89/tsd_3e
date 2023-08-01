@@ -430,4 +430,8 @@ h3.title-serv {
 .ul_footer a {
   text-decoration: none;
   color: white;
-}/*# sourceMappingURL=estilos.css.map */
+}
+.required{
+  color: white;
+}
+/*# sourceMappingURL=estilos.css.map */
